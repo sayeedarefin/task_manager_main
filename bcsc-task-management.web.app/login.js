@@ -40,14 +40,14 @@
   
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyArIDzd27Wab7Rfjz_4VFSq4sAoThByxeQ",
-    authDomain: "bcsc-task-management.firebaseapp.com",
-    projectId: "bcsc-task-management",
-    storageBucket: "bcsc-task-management.appspot.com",
-    messagingSenderId: "397434642580",
-    appId: "1:397434642580:web:d5450207dcfa502eff1481",
-    measurementId: "G-VX1XK35QZ7"
-  };
+  apiKey: "AIzaSyCF-namfkXAQJIA6PAhRmDvi0iUjJw01Ic",
+  authDomain: "main-e8eeb.firebaseapp.com",
+  projectId: "main-e8eeb",
+  storageBucket: "main-e8eeb.appspot.com",
+  messagingSenderId: "469799763754",
+  appId: "1:469799763754:web:2600192f9915c877622853",
+  measurementId: "G-L5X9WCV9N1"
+};
   
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
