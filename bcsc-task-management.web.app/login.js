@@ -65,6 +65,7 @@ const firebaseConfig = {
             "bcscciawing2022@gmail.com",
             "bcscuawing20@gmail.com",
             "shakawatsajib348@gmail.com",
+            "sayeedarefin5@gmail.com",
   ];
   
   // Handle form submission
