@@ -40,13 +40,12 @@
   
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCF-namfkXAQJIA6PAhRmDvi0iUjJw01Ic",
-  authDomain: "main-e8eeb.firebaseapp.com",
-  projectId: "main-e8eeb",
-  storageBucket: "main-e8eeb.appspot.com",
-  messagingSenderId: "469799763754",
-  appId: "1:469799763754:web:2600192f9915c877622853",
-  measurementId: "G-L5X9WCV9N1"
+  apiKey: "AIzaSyA6QvUazIALTrEXHMNQg6m-hVqiUT_-3O4",
+  authDomain: "final-3f24e.firebaseapp.com",
+  projectId: "final-3f24e",
+  storageBucket: "final-3f24e.appspot.com",
+  messagingSenderId: "726533247069",
+  appId: "1:726533247069:web:f14e75fb79acf947263db4"
 };
   
   // Initialize Firebase
